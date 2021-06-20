@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "snapshotResolver": "<rootDir>/custom-snapshot-resolver.js"
+  }
+}

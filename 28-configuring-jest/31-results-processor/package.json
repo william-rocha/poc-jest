@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "testResultsProcessor": "<rootDir>/processor.js"
+  }
+}

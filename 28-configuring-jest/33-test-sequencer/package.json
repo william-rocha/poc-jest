@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "testSequencer": "<rootDir>/custom-sequencer.js"
+  },
+  "dependencies": {
+    "@jest/test-sequencer": "^24.9.0"
+  }
+}

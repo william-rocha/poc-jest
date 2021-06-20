@@ -1,0 +1,1 @@
+{"version":3,"sources":["utils.js"],"names":["module","exports","toUpperCase","arg"],"mappings":"AAAAA,MAAM,CAACC,OAAP,GAAiB;AACfC,EAAAA,WAAW,CAACC,GAAD,EAAM;AACf,WAAOA,GAAG,IAAIA,GAAG,CAACD,WAAJ,EAAd;AACD;;AAHc,CAAjB","sourcesContent":["module.exports = {\n  toUpperCase(arg) {\n    return arg && arg.toUpperCase();\n  }\n};\n"]}

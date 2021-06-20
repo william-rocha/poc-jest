@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "verbose": false
+  },
+  "dependencies": {
+    "jest-config": "^24.8.0"
+  }
+}

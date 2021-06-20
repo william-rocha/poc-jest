@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "testEnvironment": "<rootDir>/custom-environment.js",
+    "testEnvironmentOptions": {
+      "banana": true
+    }
+  },
+  "dependencies": {
+    "jest-environment-node": "^24.9.0"
+  }
+}

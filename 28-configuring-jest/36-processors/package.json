@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "transform": {
+      "^.+\\.not-test.js$": "<rootDir>/custom-processor.js"
+    },
+    "transformIgnorePatterns": [
+      "<rootDir>/ignore-me.not-test.js"
+    ]
+  }
+}

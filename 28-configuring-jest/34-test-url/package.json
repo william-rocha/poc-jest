@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "testURL": "https://scaffoldhub.io/"
+  }
+}
